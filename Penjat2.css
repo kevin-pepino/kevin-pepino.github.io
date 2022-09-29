@@ -1,0 +1,135 @@
+/********************/
+/* Victor M. Falcon */
+/* DAW2 - M06       */
+/* 28 / 09 / 2022   */
+/********************/
+
+*
+{
+    background-color: #001c2d;
+}
+
+#title
+{
+    display: flex;
+    justify-content: center;
+    font-size: 500%;
+    font-style: italic;
+    margin-top: 5vh;
+    color: white;
+    font-family: 'Impact';
+}
+
+
+#textvalue
+{
+    border: solid;
+    border-color: #88AAFF;
+    background-color: white;
+    width: 400px;
+    height: 60px;
+    text-align: center;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#textbtn
+{
+    border-color: #004488;
+    font-size:x-large;
+    font-family: 'Impact';
+    font-style: italic;
+    background-color: #88AAFF;
+    color: black;
+    width: 200px;
+    height: 60px;
+}
+
+#buttons
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20vh;
+}
+
+#btn
+{
+    border-color: #004488;
+    font-size:x-large;
+    font-family: 'Impact';
+    font-style: italic;
+    background-color: #88AAFF;
+    color: black;
+    width: 200px;
+    height: 80px;
+}
+
+#jocPenjat
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: x-large;
+    font-family: "Impact";
+}
+
+#btn:hover
+{
+    background-color: #0066AA;
+    color: white;
+}
+
+#abecedari
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 25vh;
+}
+
+.input
+{
+    border-color: #004488;
+    background-color: #88AAFF;
+    color: black;
+    width: 30px;
+    height: 30px;
+    font-family: 'Impact';
+}
+
+#quit
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.quitbtn
+{
+    border-color: #004488;
+    background-color: #88AAFF;
+    color: black;
+    width: 150px;
+    height: 30px;
+    font-family: 'Impact';
+}
+
+.input:hover, .quitbtn:hover, #textbtn:hover
+{
+    background-color: #0066AA;
+    color: white;
+}
+
+#texto
+{
+    color: white;
+    font-size: xx-large;
+    font-family: 'Impact';
+}
+
+#texto2
+{
+    color: white;
+    font-size: large;
+    font-family: 'Impact';
+}
